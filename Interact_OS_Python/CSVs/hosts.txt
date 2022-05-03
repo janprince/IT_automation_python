@@ -1,0 +1,2 @@
+webserver.local,192.2.0.0.1
+webserver.cloud,345.10.2.0.1

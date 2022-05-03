@@ -1,0 +1,7 @@
+# Unit tests are used to verify that small, isolated parts of a program are correct.
+
+# Unit tests are generally written alongside the code to test the behavior of individual pieces or units like functions or methods.
+    Unit tests help assure the developer that each piece of code does what it's meant to do.
+
+# An important characteristic of a unit test is isolation.
+    Unit test should only test the unit of code they target, the function or method that's being tested.
